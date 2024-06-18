@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* navigation bar */
+header{
+    margin: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 900;
+}
+
+ul{
+    list-style: none;
+}
+
+.nav-items{
+    display: flex;
+}
+
+.nav-item{
+ margin-right:1rem;   
+}
